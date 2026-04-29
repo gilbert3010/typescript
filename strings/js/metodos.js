@@ -24,7 +24,7 @@ console.log(arreglo2);*/
     apellido: "Meneses",
     edad: 22,
     Usuario: {
-        username: "GILBERT",
+        username: "GILBERTT",
         correo: "gilbert0123@gmail.com",
         password: "1234hdhd"
     },
