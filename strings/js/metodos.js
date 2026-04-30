@@ -37,7 +37,7 @@ Object.freeze(Persona)
 console.table(Persona)
 console.log(Object.isFrozen(Persona))*/
 
-"user strict";
+"user strict"; //User Sctric es una directiva que se utiliza para activar el modo estricto en JavaScript. El modo estricto es una forma de ejecutar el código JavaScript con reglas más estrictas, lo que ayuda a prevenir errores comunes y a mejorar la seguridad del código. Al usar "use strict", se pueden detectar errores como variables no declaradas, asignaciones a variables de solo lectura, uso de palabras reservadas como nombres de variables, entre otros. Es una buena práctica utilizar "use strict" para escribir código más seguro y evitar problemas potenciales.
 
 const Estudiante={
     nombre: "Gilberto",
