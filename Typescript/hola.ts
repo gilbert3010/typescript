@@ -1,10 +1,17 @@
-/*let numero: number = 12;
+/*var Nombre: string = "Gilberto";
 
-alert(numero);*/
+var Apellido: string = "Meneses";
 
-var numero1: number = 12;
-var numero2: number = 5;
+var Edad: string = "22";
 
-var resultado: number = numero1 - numero2;
+alert("Soy" + Nombre + " " + Apellido + ", y tengo " + Edad + " años de edad.");
+*/
 
-alert(resultado);
+var Competencia: boolean = true;
+
+if (Competencia == true){
+    alert("La competencia es verdadera");
+    
+    } else{
+        alert("No fue verdadera");
+}

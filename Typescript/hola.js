@@ -1,8 +1,16 @@
 "use strict";
-/*let numero: number = 12;
+/*var Nombre: string = "Gilberto";
 
-alert(numero);*/
-var numero1 = 12;
-var numero2 = 5;
-var resultado = numero1 - numero2;
-alert(resultado);
+var Apellido: string = "Meneses";
+
+var Edad: string = "22";
+
+alert("Soy" + Nombre + " " + Apellido + ", y tengo " + Edad + " años de edad.");
+*/
+var Competencia = true;
+if (Competencia == true) {
+    alert("La competencia es verdadera");
+}
+else {
+    alert("No fue verdadera");
+}
